@@ -1,8 +1,7 @@
 #Reverb
 
 This is a very simple reverb plugin made with HISE, an audio engine.
-You can look at the video doccumentation of this plugin where I showcase the sound by playing some snippets of songs.
-
+You can look at the video doccumentation of this plugin where I showcase the sound by playing some snippets of songs. (VIDEO DOCCUMENTAION (2 min).mp4)
 NOTE: There was no code in this project. It was made by visual scripting functionality provided in HISE as this was an introductory 
 project.
 
